@@ -21,7 +21,7 @@ It was finished successfully, as our team got a 19/20 grade in the evaluation.
 
 It was my second project using OOP, although this time I acctually learned much more about OOP before and during the project development, which allowed me and my team to develop the whole application with the best practices.
 
-All information about the project (statement and requirements) are available on the repository.
+All information about the project (project description and requirements) are available on the repository.
 
 
 
