@@ -12,25 +12,16 @@ The teams consists of students identified in the following table.
 | **1211073**  | Guilherme Sousa            |
 | **1211076**  | Pedro Monteiro             |
 
+--------------------------------------------------------------------------
 
-# 2. Task Distribution ###
+
+This was my 3rd project which I developed with more 4 colleagues during the 2nd semester of my 1st year in university.
+
+It was finished successfully, as our team got a 19/20 grade in the evaluation. 
+
+It was my second project using OOP, although this time I acctually learned much more about OOP before and during the project development, which allowed me and my team to develop the whole application with the best practices.
+
+All information about the project (statement and requirements) are available on the repository.
 
 
-Throughout the project's development period, the distribution of _tasks / requirements / features_ by the team members was carried out as described in the following table. 
-
-**Keep this table must always up-to-date.**
-
-| Task                      | [Sprint A](SprintA/README.md) | [Sprint B](SprintB/README.md) | [Sprint C](SprintC/README.md) |  [Sprint D](SprintD/README.md) |
-|-----------------------------|------------|------------|------------|------------|
-| Glossary  |  [all](SprintA/Glossary.md)   |   [all](SprintB/Glossary.md)  |   [all](SprintC/Glossary.md)  | [all](SprintD/Glossary.md)  |
-| Use Case Diagram (UCD)  |  [all](SprintA/UCD.md)   |   [all](SprintB/UCD.md)  |   [all](SprintC/UCD.md)  | [all](SprintD/UCD.md)  |
-| Supplementary Specification   |  [all](SprintA/FURPS.md)   |   [all](SprintB/FURPS.md)  |   [all](SprintC/FURPS.md)  | [all](SprintD/FURPS.md)  |
-| Domain Model  |  [all](SprintA/DM.md)   |   [all](SprintB/DM.md)  |   [all](SprintC/DM.md)  | [all](SprintD/DM.md)  |
-| US 009 (SDP Activities)  |  [1210002](SprintA/US009.md)   |    |   |  |
-| US 010 (SDP Activities)  |  [1210003](SprintA/US010.md)   |    |   |  |
-| US 011 (SDP Activities)  |  [1210004](SprintA/US011.md)   |    |   |  |
-| US 012 (SDP Activities)  |  [1210004](SprintA/US012.md)   |    |   |  |
-| US 013 (SDP Activities)  |  [1211061](SprintA/US013.md)   |    |   |  |
-| ...  |  ...   | ...   | ...  | ... |
-| US 326 (SDP Activities)  |    |    |   | [1210004](SprintA/US326.md) |
 
