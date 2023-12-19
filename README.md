@@ -15,13 +15,13 @@ The teams consists of students identified in the following table.
 --------------------------------------------------------------------------
 
 
-This was my 3rd project which I developed with more 4 colleagues during the 2nd semester of my 1st year in university.
+This was my 3rd project which I developed with 4 more colleagues during the 2nd semester of my 1st year in university.
 
 It was finished successfully, as our team got a 19/20 grade in the evaluation. 
 
-It was my second project using OOP, although this time I acctually learned much more about OOP before and during the project development, which allowed me and my team to develop the whole application with the best practices.
+It was my second project using OOP, although this time I actually learned much more about OOP before and during the project development, which allowed me and my team to develop the whole application with the best practices.
 
-All information about the project (project description and requirements) are available on the repository.
+All information about the project (project description and requirements) is available on the repository.
 
 
 
